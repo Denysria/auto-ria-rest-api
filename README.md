@@ -1,11 +1,3 @@
-> Мы запускаем новую версию API с более широкими возможностями на [Developers.RIA.com](https://developers.ria.com).
-> Вам будут доступны все API AUTO.RIA, AUTO Search и AUTO Info, а также в дальнейшем API DOM.RIA и RIA.com. Документация по новой версии [здесь](https://github.com/ria-com/auto-ria-rest-api/blob/master/AUTO_RIA_API/README.md) 
-> 
-> Страница API 1.0 на Github будет поддерживаться до декабря 2017.
->
-> Регистрируйтесь на [Developers.RIA.com](https://developers.ria.com) и используй все преимущества наших API. 
-
-
 # [AUTO.RIA](https://github.com/ria-com/auto-ria-rest-api/tree/master/AUTO_RIA_API)        
 # [DOM.RIA](https://github.com/ria-com/auto-ria-rest-api/tree/master/DOM_RIA_API)      
 # [RIA.com](https://github.com/ria-com/auto-ria-rest-api/tree/master/RIA_com_API)
